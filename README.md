@@ -41,19 +41,21 @@ Participo de hackathons e desafios porque acredito que são ótimos para aprendi
 
 ---
 
+</div>
+
 ## 🎖️ Conquistas
 
  
-🏆 Winner no *InterSystems Hackathon Challenge*  no  *MIT Hacking Medicine Brasil 2025* 
- Participações em hackathons que reforçam minha habilidade de trabalho em equipe, inovação sob pressão, e resolução de problemas reais  
+- 🏆 Winner no *InterSystems Hackathon Challenge*  no  *MIT Hacking Medicine Brasil 2025* 
+- Participações em hackathons que reforçam minha habilidade de trabalho em equipe, inovação sob pressão, e resolução de problemas reais  
 
 ---
 
 ## 📫 Contato & Onde me encontrar
 
- 🌐 [LinkedIn](https://www.linkedin.com/in/lucas-cristiano-aab1b9355/)  
- ✉️ Email: **lucasghost1012@gmail.com**  
- 🐙 GitHub: Aqui você encontrará meus projetos abertos, experimentos e contribuições que mostram meu crescimento técnico  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/lucas-cristiano-aab1b9355/)  
+- ✉️ Email: **lucasghost1012@gmail.com**  
+-  🐙 GitHub: Aqui você encontrará meus projetos abertos, experimentos e contribuições que mostram meu crescimento técnico  
 
 ---
 
