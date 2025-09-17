@@ -18,32 +18,21 @@ Participo de hackathons e desafios porque acredito que são ótimos para aprendi
 
 ## 🛠️ Tecnologias & Ferramentas
 
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="Postman" />
+</div>
 
 
-
-
-<div align="center">
-
-
- **Linguagens:** JavaScript | TypeScript | 
-**Frameworks:** NestJS | Node.js  
- **Banco de Dados:** MySQL 
- **Ferramentas:** Git | Docker | Postman  
- **Outros:** APIs REST | Autenticação | Integração de sistemas  
+- **Linguagens:** JavaScript | TypeScript | 
+- **Frameworks:** NestJS | Node.js  
+- **Banco de Dados:** MySQL 
+-  **Ferramentas:** Git | Docker | Postman  
+ - **Outros:** APIs REST | Autenticação | Integração de sistemas  
 
 ---
 
-</div>
+
 
 ## 🎖️ Conquistas
+
 
  
 - 🏆 Winner no *InterSystems Hackathon Challenge*  no  *MIT Hacking Medicine Brasil 2025* 
@@ -59,4 +48,14 @@ Participo de hackathons e desafios porque acredito que são ótimos para aprendi
 
 ---
 
-Obrigado por visitar meu perfil no GitHub! Se quiser trocar ideias, colaborações ou desafios, será um prazer 🤝
+
+
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="Postman" />
+
