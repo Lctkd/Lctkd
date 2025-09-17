@@ -28,13 +28,16 @@ Participo de hackathons e desafios porque acredito que são ótimos para aprendi
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="Postman" />
 
 
-</div>
 
-- **Linguagens:** JavaScript | TypeScript | 
-- **Frameworks:** NestJS | Node.js  
-- **Banco de Dados:** MySQL 
-- **Ferramentas:** Git | Docker | Postman  
-- **Outros:** APIs REST | Autenticação | Integração de sistemas  
+
+<div align="center">
+
+
+ **Linguagens:** JavaScript | TypeScript | 
+**Frameworks:** NestJS | Node.js  
+ **Banco de Dados:** MySQL 
+ **Ferramentas:** Git | Docker | Postman  
+ **Outros:** APIs REST | Autenticação | Integração de sistemas  
 
 ---
 
